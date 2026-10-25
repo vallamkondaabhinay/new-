@@ -1,0 +1,6 @@
+{
+  "name": "Gild & Glow — Salon & Beauty Parlour ERP",
+  "description": "Professional Salon and Beauty Parlour Management ERP with billing POS, appointment scheduling, inventory management, customer retention, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
